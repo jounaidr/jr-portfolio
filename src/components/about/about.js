@@ -12,9 +12,9 @@ export default class About extends Component {
                         <div className="nine columns main-col">
                             <h2>About Me</h2>
                             <p>
-                                I have just finished my placement year at Clearswift (July), where I gained a lot of Java and general software development knowledge, and am currently looking for a part time opportunity to fit around my studies.
-                                I am also working on my dissertation, where I plan to create a peer to peer blockchain network with a web client application in Java. See my resume <a href="https://media-exp1.licdn.com/dms/document/C4D1FAQHvl6H222sPnQ/feedshare-document-pdf-analyzed/0?e=1599616800&v=beta&t=cIlvto61sVOkKseDyiLpogLZ0CEzDefyE6vQdYt0TEM" >here </a>
-                                and <a className="smoothscroll" href="#portfolio">scroll down</a> to check out some of my projects!
+                                I have just finished my placement year at Clearswift (July), where I gained a lot of Java and general software development knowledge,
+                                and am currently looking for a part time opportunity to fit around my studies. I am also working on my dissertation, where I plan to
+                                create a peer to peer blockchain network with a web client application in Java. Check out my resume and scroll down to check out some of my projects!
                             </p>
                             <div className="row">
                                 <div className="columns contact-details">
