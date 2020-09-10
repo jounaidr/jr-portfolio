@@ -1,6 +1,6 @@
 {
-  "homepage": "https://jounaidr.github.io/JR-portfolio-DEPLOYMENT/",
-  "name": "JR-portfolio",
+  "homepage": "https://jounaidr.github.io/jr-portfolio/",
+  "name": "jr-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
