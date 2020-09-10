@@ -78,7 +78,7 @@ export default class Portfolio extends Component {
                                 <span className="categories"><i className="fa fa-tag" />Dissertation, Blockchain, Cryptocurrency, Java, Web-client</span>
                             </div>
                             <div className="link-box">
-                                <a href="http://www.commingsoon.net">Details</a>
+                                <a href="underconst">Details</a>
                                 <a className="popup-modal-dismiss">Close</a>
                             </div>
                         </div>{/* modal-01 End */}
@@ -102,7 +102,7 @@ export default class Portfolio extends Component {
                                 <span className="categories"><i className="fa fa-tag" />Music Production, Beats</span>
                             </div>
                             <div className="link-box">
-                                <a href="http://www.underconstruction.net">Details</a>
+                                <a href="underconst">Details</a>
                                 <a className="popup-modal-dismiss">Close</a>
                             </div>
                         </div>{/* modal-03 End */}

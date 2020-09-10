@@ -19,12 +19,12 @@ export default class Header extends Component {
                     <div className="row banner">
                         <div className="banner-text">
                             <h1 className="responsive-headline">Hi, I'm Jounaid.</h1>
-                            <h3><span>I'm a third year Computer Science student at the University of Reading. I am mainly into backend development and am currently working on my dissertation. <a style={{display: "table-cell"}} target="_blank" href="https://github.com/jounaidr/JR-portfolio-react/tree/master/jr-portfolio" >Click here</a> to view the repo!</span></h3>
+                            <h3><span>I'm a third year Computer Science student at the University of Reading. I am mainly into backend development and am currently working on my dissertation. <a style={{display: "table-cell"}} target="_blank" href="https://github.com/jounaidr/jr-portfolio" >Click here</a> to view the repo!</span></h3>
                             <hr />
                             <ul className="social">
                                 <li><a style={{display: "table-cell"}} target="_blank" href="https://github.com/jounaidr"><i className="fa fa-github" /></a></li>
                                 <li><a style={{display: "table-cell"}} target="_blank" href="https://www.linkedin.com/in/jounaid-ruhomaun-b38960aa"><i className="fa fa-linkedin" /></a></li>
-                                <li><a style={{display: "table-cell"}} target="_blank" href="https://github.com/jounaidr/JR-portfolio-react/tree/master/jr-portfolio"><i className="fa fa-dribbble" /></a></li>
+                                <li><a style={{display: "table-cell"}} target="_blank" href="https://github.com/jounaidr/jr-portfolio"><i className="fa fa-dribbble" /></a></li>
                             </ul>
                         </div>
                     </div>
