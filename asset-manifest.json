@@ -1,13 +1,13 @@
 {
-  "main.css": "/JR-portfolio-DEPLOYMENT/static/css/main.9da0869f.chunk.css",
-  "main.js": "/JR-portfolio-DEPLOYMENT/static/js/main.1b94bb87.chunk.js",
-  "main.js.map": "/JR-portfolio-DEPLOYMENT/static/js/main.1b94bb87.chunk.js.map",
-  "runtime~main.js": "/JR-portfolio-DEPLOYMENT/static/js/runtime~main.b50be1eb.js",
-  "runtime~main.js.map": "/JR-portfolio-DEPLOYMENT/static/js/runtime~main.b50be1eb.js.map",
-  "static/js/2.521e897d.chunk.js": "/JR-portfolio-DEPLOYMENT/static/js/2.521e897d.chunk.js",
-  "static/js/2.521e897d.chunk.js.map": "/JR-portfolio-DEPLOYMENT/static/js/2.521e897d.chunk.js.map",
-  "index.html": "/JR-portfolio-DEPLOYMENT/index.html",
-  "precache-manifest.a67b9aaf9a8837aefc82399d73a8061f.js": "/JR-portfolio-DEPLOYMENT/precache-manifest.a67b9aaf9a8837aefc82399d73a8061f.js",
-  "service-worker.js": "/JR-portfolio-DEPLOYMENT/service-worker.js",
-  "static/css/main.9da0869f.chunk.css.map": "/JR-portfolio-DEPLOYMENT/static/css/main.9da0869f.chunk.css.map"
+  "main.css": "/jr-portfolio/static/css/main.9da0869f.chunk.css",
+  "main.js": "/jr-portfolio/static/js/main.b1839f8b.chunk.js",
+  "main.js.map": "/jr-portfolio/static/js/main.b1839f8b.chunk.js.map",
+  "runtime~main.js": "/jr-portfolio/static/js/runtime~main.c8839673.js",
+  "runtime~main.js.map": "/jr-portfolio/static/js/runtime~main.c8839673.js.map",
+  "static/js/2.521e897d.chunk.js": "/jr-portfolio/static/js/2.521e897d.chunk.js",
+  "static/js/2.521e897d.chunk.js.map": "/jr-portfolio/static/js/2.521e897d.chunk.js.map",
+  "index.html": "/jr-portfolio/index.html",
+  "precache-manifest.9f546e6723d4275649d84cb685453617.js": "/jr-portfolio/precache-manifest.9f546e6723d4275649d84cb685453617.js",
+  "service-worker.js": "/jr-portfolio/service-worker.js",
+  "static/css/main.9da0869f.chunk.css.map": "/jr-portfolio/static/css/main.9da0869f.chunk.css.map"
 }
