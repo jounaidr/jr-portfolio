@@ -27,7 +27,7 @@ export default class About extends Component {
                                 </div>
                                 <div className="columns download">
                                     <p>
-                                        <a style={{display: "table-cell"}} target="_blank" href="https://media-exp1.licdn.com/dms/document/C4D1FAQHvl6H222sPnQ/feedshare-document-pdf-analyzed/0?e=1599616800&v=beta&t=cIlvto61sVOkKseDyiLpogLZ0CEzDefyE6vQdYt0TEM" className="button"><i className="fa fa-download" />Download Resume</a>
+                                        <a style={{display: "table-cell"}} target="_blank" href="https://drive.google.com/file/d/1tSp8h3VINTkCv_WMj_IbbQQ-N9kGRzla/view?usp=sharing" className="button"><i className="fa fa-download" />Download Resume</a>
                                     </p>
                                 </div>
                             </div> {/* end row */}
