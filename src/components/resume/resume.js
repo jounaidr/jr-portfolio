@@ -5,6 +5,39 @@ export default class Resume extends Component {
         return (
             <React.Fragment>
                 <section id="resume">
+                    {/* Work
+      ----------------------------------------------- */}
+                    <div className="row work">
+                        <div className="three columns header-col">
+                            <h1><span>Work</span></h1>
+                        </div>
+                        <div className="nine columns main-col">
+                            <div className="row item">
+                                <div className="twelve columns">
+                                    <h3>Clearswift</h3>
+                                    <p className="info">R&D Software Development Placement <span>•</span> <em className="date">July 2019 - July 2020</em></p>
+                                    <p>
+                                        As part of an agile development team, I was responsible for: the development and maintenance of
+                                        the Information Governance Platform server backend; the development of client-side features for
+                                        the Secure Email Gateway; the creation and maintenance of CI pipelines (Jenkins); the design and
+                                        implementation of high-availability for the PostgreSQL databases; the development of automated
+                                        client-side tests (Cucumber) and the completion of manual regression testing (Qtest).
+                                    </p>
+                                </div>
+                            </div> {/* item end */}
+                            <div className="row item">
+                                <div className="twelve columns">
+                                    <h3>JD Sports PLC</h3>
+                                    <p className="info">Sales Adviser <span>•</span> <em className="date">August 2016 - July 2017</em></p>
+                                    <p>
+                                        My responsibilities included being part of a small team that would efficiently run the footwear
+                                        department of a busy high-street store whilst providing excellent and personalized customer service
+                                        in order to secure sales.
+                                    </p>
+                                </div>
+                            </div> {/* item end */}
+                        </div> {/* main-col end */}
+                    </div> {/* End Work */}
                     {/* Education
       ----------------------------------------------- */}
                     <div className="row education">
@@ -44,39 +77,6 @@ export default class Resume extends Component {
                             </div> {/* item end */}
                         </div> {/* main-col end */}
                     </div> {/* End Education */}
-                    {/* Work
-      ----------------------------------------------- */}
-                    <div className="row work">
-                        <div className="three columns header-col">
-                            <h1><span>Work</span></h1>
-                        </div>
-                        <div className="nine columns main-col">
-                            <div className="row item">
-                                <div className="twelve columns">
-                                    <h3>Clearswift</h3>
-                                    <p className="info">R&D Software Development Placement <span>•</span> <em className="date">July 2019 - July 2020</em></p>
-                                    <p>
-                                        As part of an agile development team, I was responsible for: the development and maintenance of
-                                        the Information Governance Platform server backend; the development of client-side features for
-                                        the Secure Email Gateway; the creation and maintenance of CI pipelines (Jenkins); the design and
-                                        implementation of high-availability for the PostgreSQL databases; the development of automated
-                                        client-side tests (Cucumber) and the completion of manual regression testing (Qtest).
-                                    </p>
-                                </div>
-                            </div> {/* item end */}
-                            <div className="row item">
-                                <div className="twelve columns">
-                                    <h3>JD Sports PLC</h3>
-                                    <p className="info">Sales Adviser <span>•</span> <em className="date">August 2016 - July 2017</em></p>
-                                    <p>
-                                        My responsibilities included being part of a small team that would efficiently run the footwear
-                                        department of a busy high-street store whilst providing excellent and personalized customer service
-                                        in order to secure sales.
-                                    </p>
-                                </div>
-                            </div> {/* item end */}
-                        </div> {/* main-col end */}
-                    </div> {/* End Work */}
                     {/* Skills
       ----------------------------------------------- */}
                     <div className="row skill">
