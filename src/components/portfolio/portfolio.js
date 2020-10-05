@@ -74,11 +74,11 @@ export default class Portfolio extends Component {
                             <img className="scale-with-grid" src="images/portfolio/modals/m-irl_btc_pic.jpg" alt="My Cryptocurrency Icon (Image Unavailable)" />
                             <div className="description-box">
                                 <h4>My Dissertation</h4>
-                                <p>Currently under construction =)</p>
+                                <p>I am currently working on the cryptocurrency node application called jrc-node, click details to get a view of my current progress!</p>
                                 <span className="categories"><i className="fa fa-tag" />Dissertation, Blockchain, Cryptocurrency, Java, Web-client</span>
                             </div>
                             <div className="link-box">
-                                <a href="underconst">Details</a>
+                                <a href="https://github.com/users/jounaidr/projects/1">Details</a>
                                 <a className="popup-modal-dismiss">Close</a>
                             </div>
                         </div>{/* modal-01 End */}

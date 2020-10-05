@@ -13,8 +13,9 @@ export default class About extends Component {
                             <h2>About Me</h2>
                             <p>
                                 I have just finished my placement year at Clearswift (July), where I gained a lot of Java and general software development knowledge,
-                                and am currently looking for a part time opportunity to fit around my studies. I am also working on my dissertation, where I plan to
-                                create a peer to peer blockchain network with a web client application in Java. Check out my resume and scroll down to check out some of my projects!
+                                and am currently looking for a part time opportunity to fit around my studies, and graduate opportunities starting at the end of this academic year.
+                                I am also working on my dissertation, where I am creating a peer to peer blockchain network with a web client application in Java.
+                                Check out my resume and scroll down to check out some of my projects!
                             </p>
                             <div className="row">
                                 <div className="columns contact-details">
