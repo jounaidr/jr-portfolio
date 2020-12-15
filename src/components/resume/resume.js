@@ -87,6 +87,7 @@ export default class Resume extends Component {
                             <div className="bars">
                                 <ul className="skills">
                                     <li><span className="bar-expand Java" /><em>Java</em></li>
+                                    <li><span className="bar-expand Python" /><em>Python</em></li>
                                     <li><span className="bar-expand Bash" /><em>Bash/Unix</em></li>
                                     <li><span className="bar-expand SQL" /><em>SQL</em></li>
                                     <li><span className="bar-expand Groovy" /><em>Groovy</em></li>

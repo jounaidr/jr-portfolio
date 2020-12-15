@@ -330,6 +330,11 @@ ul#nav li.current a { color: #11ABB0; }
   	-moz-animation: Java 2s ease;
   	-webkit-animation: Java 2s ease;
 }
+.Python {
+    width: 75%;
+    -moz-animation: Java 2s ease;
+    -webkit-animation: Java 2s ease;
+}
 .Bash {
   	width: 75%;
   	-moz-animation: Bash 2s ease;
@@ -346,7 +351,7 @@ ul#nav li.current a { color: #11ABB0; }
   	-webkit-animation: Groovy 2s ease;
 }
 .React {
-    width: 24%;
+    width: 30%;
     -moz-animation: React 2s ease;
     -webkit-animation: React 2s ease;
 }

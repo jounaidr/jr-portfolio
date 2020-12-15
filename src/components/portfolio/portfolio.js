@@ -41,11 +41,11 @@ export default class Portfolio extends Component {
                                 <div className="columns portfolio-item">
                                     <div className="item-wrap">
                                         <a href="#modal-03" title>
-                                            <img alt="" src="images/portfolio/headphones.jpg" />
+                                            <img alt="" src="images/portfolio/JRpeg_test_img.bmp" />
                                             <div className="overlay">
                                                 <div className="portfolio-item-meta">
-                                                    <h5>Music</h5>
-                                                    <p>My Beats</p>
+                                                    <h5>JRpeg</h5>
+                                                    <p>Python Image Compression Codec</p>
                                                 </div>
                                             </div>
                                             <div className="link-icon"><i className="icon-plus" /></div>
@@ -95,14 +95,14 @@ export default class Portfolio extends Component {
                             </div>
                         </div>{/* modal-02 End */}
                         <div id="modal-03" className="popup-modal mfp-hide">
-                            <img className="scale-with-grid" src="images/portfolio/modals/m-razer.jpg" alt="" />
+                            <img className="scale-with-grid" src="images/portfolio/modals/m-JRpeg_gui.PNG" alt="" />
                             <div className="description-box">
-                                <h4>Music</h4>
-                                <p>I like all Music. Click details to check out my beats (under const)</p>
-                                <span className="categories"><i className="fa fa-tag" />Music Production, Beats</span>
+                                <h4>JRpeg</h4>
+                                <p>An image compression codec based on JPEG implemented in python</p>
+                                <span className="categories"><i className="fa fa-tag" />Python, OpenCV, Image Compression</span>
                             </div>
                             <div className="link-box">
-                                <a href="underconst">Details</a>
+                                <a href="https://github.com/jounaidr/JRpeg">Details</a>
                                 <a className="popup-modal-dismiss">Close</a>
                             </div>
                         </div>{/* modal-03 End */}
