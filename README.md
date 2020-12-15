@@ -1,6 +1,6 @@
 
 # jr-portfolio
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), and uses modified components from [Ceevee](https://www.styleshout.com/free-templates/ceevee).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 Click [here](https://jounaidr.com/) to view the finished website!
 ## Directory Structure
 Each component can be found under `src/components/...` and are constructed in `src/App.js`
