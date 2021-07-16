@@ -15,11 +15,10 @@ export default class References extends Component {
                                     <ul className="slides">
                                         <li>
                                             <blockquote>
-                                                <p>Jounaid had a great year working with my team at Clearswift. He got a wide range of experience of work life, as the company was sold, had new owners, products released and celebrated, redundancies in the department and team re-organisations.
-                                                    Jounaid played an active role in my team, taking the lead in researching and including a 3rd party database high availability application into the product that we develop, helping the team to achieve one of its key goals for a release.
-                                                    He is often quite in meetings, but listens well and asks questions as, when he needs to. He has been keen to learn new technologies and has completed all that we asked of him.
+                                                <p>
+                                                    ahh the pepeloni, pepeloni. you know the pepeloni? the nooo one. i always, i always order the, the domino. domino pepeloni and without pepeloni. i always order the pepeloni and without pepeloni. pepeloni! i like pepeloni, yeah. i always, i always order the, the cheese- cheese pan. ahh how can i explain? i can explain by my drawing! i always order like the cheese pan that it has cheese on here, this part, the ear. ear of pizza. and then, i order- wh- when i order pepeloni, the ear- it always have a pepeloni on h- on a top, but i pick up these... away! cause i don't eat it. and then i eat the cheese pan pizza. okay? you understand? understandable! pepeloni! yes.
                                                 </p>
-                                                <cite>Stephen Greenslade (Team Leader)</cite>
+                                                <cite>Akai Haato</cite>
                                             </blockquote>
                                         </li> {/* slide ends */}
                                         {/*<li>*/}
